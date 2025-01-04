@@ -4,7 +4,7 @@
 - Network Protocols (Client Server, UDP, TCP, P2P)
 - CAP Theorem
 - Microservices Design Patterns Part-1 | Introduction and Decomposition Pattern
-- Microservices Design Patterns Part-2 || SAGA Pattern, Strangler Pattern, CQRS
+- Microservices Design Patterns Part-2 || SAGA Pattern, Strangler Pattern, CQRS https://www.youtube.com/watch?v=qGlUKtjqaEQ
 - Scale from zero to million users
 - Consistent Hashing
 - Design URL shortening service like tinyurl
